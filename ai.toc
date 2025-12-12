@@ -1,9 +1,5 @@
 \contentsline {chapter}{\numberline {1}Hypothesis}{5}{}%
 \contentsline {section}{\numberline {1.1}Context}{5}{}%
-\contentsline {chapter}{\numberline {2}A Computeable Theory of Mind}{7}{}%
-\contentsline {section}{\numberline {2.1}A Brief Tour of Electronic Computing Machines}{7}{}%
-\contentsline {section}{\numberline {2.2}What is a computer?}{8}{}%
-\contentsline {section}{\numberline {2.3}Unlimited Precision}{8}{}%
-\contentsline {chapter}{\numberline {3}Metaphysical Foundation}{9}{}%
-\contentsline {section}{\numberline {3.1}Intelligence}{9}{}%
-\contentsline {chapter}{\numberline {4}Untitled}{11}{}%
+\contentsline {chapter}{\numberline {2}}{7}{}%
+\contentsline {chapter}{\numberline {3}}{9}{}%
+\contentsline {section}{\numberline {3.1}}{9}{}%
