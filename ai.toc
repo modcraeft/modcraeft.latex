@@ -1,5 +1,5 @@
-\contentsline {chapter}{\numberline {1}Hypothesis}{5}{}%
-\contentsline {section}{\numberline {1.1}Context}{5}{}%
+\contentsline {chapter}{\numberline {1}Chapter 1}{5}{}%
+\contentsline {section}{\numberline {1.1}Section 1}{5}{}%
 \contentsline {chapter}{\numberline {2}}{7}{}%
 \contentsline {chapter}{\numberline {3}}{9}{}%
 \contentsline {section}{\numberline {3.1}}{9}{}%
